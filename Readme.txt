@@ -1,1 +1,1 @@
-License: https://bootstrapmade.com/license/
+Rishab Menon Portfolio website :)
